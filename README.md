@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Sojitra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5B7HkT_vVpF4GwGAfPqHj8w7xmAEMixCHng&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1705481056~exp=1705484656~hmac=b57a5ae3b002a99cabb69ee7f17b08b8f08a3f3335dfd89cf4034e7a8ff5948f&w=1380">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesh4036&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh4036" /> </p>
 
