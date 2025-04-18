@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dipesh Sojitra</h1>
-<h3 align="center">A passionate Web Developer dedicated to crafting modern web experiences</h3>
+<h1 align="left">Hi there 👋, I'm Dipesh Patel</h1>
+<h3 align="left">Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1705481056~exp=1705484656~hmac=b57a5ae3b002a99cabb69ee7f17b08b8f08a3f3335dfd89cf4034e7a8ff5948f&w=1380">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dipesh4036&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh4036" /> 
-</p>
 
 ## 🔗 Connect with me:
 <p align="left">
@@ -55,9 +51,6 @@
 </p>
 
 ## 📈 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipesh4036&show_icons=true&locale=en" alt="dipesh4036" />
-</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipesh4036&show_icons=true&locale=en&layout=compact" alt="dipesh4036" />
 </p>
